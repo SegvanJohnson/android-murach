@@ -1,5 +1,4 @@
-# android-murach
-android-murach  Murach’s Android Programming (2nd Edition)
+android-murach
+=================
 
-
-![alt text](https://www.murach.com/images/stories/virtuemart/product/murach's-android-programming-(2nd-ed).jpg)
+murach's android programing
